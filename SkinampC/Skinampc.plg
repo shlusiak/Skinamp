@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: Skinampc - Win32 Release--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/Skinampc.res" /d "NDEBUG" "Y:\SkinAmp\Skinampc\Skinampc.rc"" 
+Erstellen der temporären Datei  "G:\DOKUME~1\SASCHA~2\LOKALE~1\Temp\RSP3D.tmp" mit Inhalten
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib zlibstat.lib /nologo /dll /incremental:no /pdb:"Release/Skinampc.pdb" /machine:I386 /nodefaultlib:"libc.lib" /nodefaultlib:"msvcrt.lib" /nodefaultlib:"libcd.lib" /nodefaultlib:"libcmtd.lib" /nodefaultlib:"msvcrtd.lib" /def:".\Skinampc.def" /out:"../Skinampc.dll" /implib:"Release/Skinampc.lib" 
+.\Release\Cheats.obj
+.\Release\Cursoreditor.obj
+.\Release\Skinampc.obj
+.\Release\Sonstiges.obj
+.\Release\StdAfx.obj
+.\Release\ZipFiles.obj
+.\Release\zip.obj
+.\Release\Skinampc.res
+]
+Erstellen der Befehlzeile "link.exe @G:\DOKUME~1\SASCHA~2\LOKALE~1\Temp\RSP3D.tmp"
+<h3>Ausgabefenster</h3>
+Ressourcen werden kompiliert...
+Linker-Vorgang läuft...
+   Bibliothek Release/Skinampc.lib und Objekt Release/Skinampc.exp wird erstellt
+
+
+
+<h3>Ergebnisse</h3>
+Skinampc.dll - 0 Fehler, 0 Warnung(en)
+</pre>
+</body>
+</html>

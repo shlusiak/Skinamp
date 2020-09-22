@@ -1,0 +1,238 @@
+// Bosanski jezik za Skinamp
+// Pravio: Nermin Veljacic, Kladusa Polje, 2002.
+// Mailto: foreelnermin@hotmail.com
+
+// Morete naci pomoc u Skimampu
+
+// Valid websites (string 11) are:
+// "http://members.tripod.de/DrAlgebra/enlish"  za engleski verzan
+// "http://members.tripod.de/DrAlgebra" za njemacki verzan.
+
+
+// General strings
+0=&Bosanski
+10=Nema Slika!
+
+11=http://members.tripod.de/DrAlgebra/english
+12=Bosanska verzija
+13=Winamp niso nasli! Molimte pogledaj da je tacno instolirato!
+14=Nemoremo obrizati ovaj direktori.
+15=Winamp nije ukljucen! Ukljuci?
+16=Obrisi sadasne poligone?
+17=Obrisi sve tacke sadasnjeg poligona?
+18=vrha
+19=pot
+20=smanji
+21=pojacaj
+22=centar
+23=okvir
+24=levo
+25=desno
+26=t-l
+27=t-r
+28=b-l
+29=b-r
+30=SkinAmp
+31=Winamp ce ucitati sadasnji skin. Provjeri da si spasio skin u Winampu!
+32=Skin mozda vec postoji. Dali hoce te presnimiti preko informacije spasite sa istom imenom?
+33=Nemoremo naci sliku. Mozda je obrisata.
+
+// Menu strings
+100=&Program
+101=Ucitaj &sliku...
+102=Stvori &pozadinu...
+105=&Prljepi
+103=&Spasi skin...
+104=&Izaci
+106=Otvori novi &prozor
+107=Spasiti kao &Jpeg...
+110=&Skin
+111=Pred&izpozicije
+112=&3D
+113=&Bitmape
+114=&Samo Slika
+115=&Glavnia Prozor
+116=P&oljacati ili Smanjiti...
+117=&Prikaz...
+118=&Ravnoteza...
+119=Skin&cheat...
+120=&Izjednicevac zvuka
+121=&Dijagram...
+122=&Upravljac...
+123=&List Pjesma
+125=&Spasiti konfiguraciju...
+126=&Ucitaj konfiguraciju...
+127=Napravi da bude prvi
+128=&Maci Internet prozor
+130=&Jezik
+140=&Pomoc
+141=&Ocega...
+150=&Template
+151=&Ucitaj Bitmape.bmp...
+152=&Ucitaj Masks.bmp...
+153=Edit Bitmaps.bmp
+154=Edit Masks.bmp
+
+// Strings of the main window
+500=&Ime Skina:
+501=I&me maska
+502=Gumbi
+503=G&umbi
+504=Nista
+505=Bitmap
+506=3D
+507=Kaos ploca
+508=Mono - stereo
+509=Ravnoteza
+510=Glas Muzike
+511=Polozajna maska
+512=Kolicina podataka
+513=Vizulizacija
+514=Pjesma-naslov
+515=Status
+516=Winamp ikona
+517=vrjeme:
+518=Pjesma:
+520=Opis
+521=Okvir
+522=Maska
+523=Dijagram
+524=Preamp
+525=&Upali
+530=Gumbi za sviranje
+531=Okretna ploca
+532=Okretna gumb
+533=Velicine
+534=Slika ispod&List Muzike
+535=Prozirno
+536=Prelomi
+537=Crne c&rte
+540=Velicine
+541=Adresa od internet linke
+542=Slika Ispod &MB
+543=Site:
+550=&Spasiti...
+551=&Testirati
+552=N&azad
+553=Slika
+554=&Sliku...
+555=&Boje...
+556=&Producja...
+557=Slika & sama
+558=Djel
+559=Rasteni
+560=Mrezno
+561=&Okvir
+562=Nista
+563=Odvoji
+564=Okvirno
+565=Kakav &Okvir
+566=Gore
+567=Dole
+568=&Pokazati
+569=Glavni
+570=Interneta
+571=AVS
+572=Velicine s&like
+573=&Kakva Slova...
+580=Glavni
+581=G&las...
+582=&Prikaz...
+583=&Ravnoteza...
+584=Skin&...
+590=Izjednacivac zvuka
+591=&Dijagram...
+592=&Upravljac...
+600=List od Pjesmi
+601=&Tekst...
+610=Internet
+620=AVS
+630=citajme.txt
+631=&Raklamiraj ovo
+632=&Kursori Misa...
+
+
+900=&Napredak
+901=&Zatvori
+902=&Uredu
+903=&Otkazi
+904=Broj boja
+905=&Uvezi...
+906=&Okreni
+907=&Pokazi
+
+// Informacija
+1000= od Skinampa...
+1001=Piso je
+1002=Ovaj program je gabe za svakoga i more se copirati.
+1003=email:
+1004=&Pratite mene!
+1005=Drugi put!
+1006=Nikada!
+
+// Pjesme font
+1050=Normalno
+1051=Pjesma Koja Igra
+1052=Normalna pozadina
+1053=Izmes tvoju pozadinu
+1054=Pjesmi text
+
+
+1100=&Svi poligoni
+1101=Poli&gon:
+1102=&Tacke:
+1103=&Novo
+1104=&Obrisi
+1105=Producja
+1106=Glavni
+1107=Izjednacivac zvuka
+1108=Windowshade
+1109=Izjednacivac zvuka WS
+
+// Spasiti
+1150=Pisi direktori ge hoces the skin bude. Ako ima nesto tude nemoj da diras.
+1151=Spasitikao .&WSZ-Archive
+1152=&Spasiti
+1153=Spasiti skin
+
+
+1200=Analizer
+1201=Osiloskop
+1202=Drugo
+1203=&Pozadina
+1204=T&acke
+1205=V&rh
+1206=Prikaz
+
+
+1250=Vertikalno
+1251=Horizontalno
+1252=Diagonalno \
+1253=Diagonalno /
+1254=Internet
+1255=List od pjesmi
+1256=Boje
+1257=Alokacija&boje
+1258=Create background
+1259=Smjer
+
+
+1300=&Nasumce
+1301=Pisi tekst koji se prikaze ulazku skin-cheata.
+1302=Skin-cheat tekst
+
+
+1320=Napredak bolje
+
+// Trazi boje
+1350=Trazi boju
+1351=Klikni na polje i povuci kursor na boju na skrinu.
+// Internet tekst
+1400=Internet Tekst
+1401=Pozadina
+1402=Boja teksta
+
+// Praviti Kursor
+1500=Napravi Kursore
+1501=Hotspot
+

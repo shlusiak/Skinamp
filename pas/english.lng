@@ -1,0 +1,238 @@
+// English language for Skinamp
+// Edited by Sascha Hlusiak, 2001.
+// Mailto: Dr.Algebra@gmx.de
+
+// You find help for editing language files in the help file of Skinamp
+
+// Valid websites (string 11) are:
+// "http://members.tripod.de/DrAlgebra/enlish"  for the english version and
+// "http://members.tripod.de/DrAlgebra"  for the german version.
+
+
+// General strings
+0=&English
+10=Invalid picture!
+
+11=http://members.tripod.de/DrAlgebra/english
+12=English version
+13=Winamp not found! Please check if it has been installed correctly.
+14=Can't delete temporary directory.
+15=Winamp is not running! Start it now?
+16=Delete current polygons?
+17=Delete all points of the current polygon?
+18=top
+19=bottom
+20=volume down
+21=volume up
+22=center
+23=border
+24=left
+25=right
+26=t-l
+27=t-r
+28=b-l
+29=b-r
+30=SkinAmp
+31=Winamp will reload the current skin now. Please check out that you have saved the skin and that it is the current skin in Winamp!
+32=The skin might already exist. Do you want to overwrite all existing files?
+33=Can't find the picture. Perhaps it has been deletet.
+
+// Menu strings
+100=&Program
+101=Load &image...
+102=Generate &background...
+105=&Paste clipboard
+103=&Save skin...
+104=&Exit
+106=Open new &window
+107=Save as &Jpeg...
+110=&Skin
+111=Pre&sets
+112=&3D
+113=&Bitmaps
+114=&Picture only
+115=&Main
+116=V&olume...
+117=&Visualization...
+118=&Balance...
+119=Skin&cheat...
+120=&Equalizer
+121=&Diagram...
+122=&Controller...
+123=&Playlist
+125=&Save configuration...
+126=&Load configuration...
+127=Use as default
+128=&Minibrowser
+130=&Language
+140=&Help
+141=&About...
+150=&Templates
+151=&Load Bitmaps.bmp...
+152=&Load Masks.bmp...
+153=Edit Bitmaps.bmp
+154=Edit Masks.bmp
+
+// Strings of the main window
+500=&Title:
+501=T&itlebar
+502=Buttons
+503=B&uttons
+504=None
+505=Bitmaps
+506=3D
+507=Chaosbar
+508=Mono - stereo
+509=Balance
+510=Volume
+511=Posbar
+512=Datarate
+513=Vis-rect
+514=Song-title
+515=Playstatus
+516=Winamp icon
+517=time:
+518=song:
+520=Description
+521=Border
+522=Bar
+523=Diagram
+524=Preamp
+525=&On
+530=Playbuttons
+531=Scrollbar
+532=Scrollbutton
+533=Sizebutton
+534=Image below &Pl
+535=Transparent
+536=Split
+537=Black s&tripes
+540=Sizebutton
+541=Adressline
+542=Image below &MB
+543=Site:
+550=&Save...
+551=&Test
+552=E&xit
+553=Picture
+554=&Load picture...
+555=&Art...
+556=&Regions...
+557=Picture &mode
+558=Part
+559=Stretched
+560=Tile
+561=&Border
+562=None
+563=Seperate
+564=Global
+565=Border &type
+566=Up
+567=Down
+568=&Display
+569=Main
+570=Browser
+571=AVS
+572=Picture s&ize
+573=&Font...
+580=Main
+581=V&olume...
+582=&Visualization...
+583=&Balance...
+584=Skin&cheat...
+590=Equalizer
+591=&Diagram...
+592=&Controller...
+600=Playlist
+601=&Text...
+610=Minibrowser
+620=AVS
+630=readme.txt
+631=&Advertisment
+632=&Cursors...
+
+// Some general buttons
+900=&Progress
+901=&Close
+902=&Ok
+903=&Cancel
+904=Number of colors
+905=&Import...
+906=&Turn
+907=&Show
+
+// Info dialog
+1000=About Skinamp...
+1001=Written by 
+1002=This program is freeware and may be copied to anybody.
+1003=email:
+1004=&Praise me!
+1005=Later
+1006=Never
+
+// Playlist font
+1050=Normal
+1051=Current Font
+1052=Normal background
+1053=Selected background
+1054=Playlist text
+
+// Regionseditor
+1100=&All polygons
+1101=Poly&gon:
+1102=&Points:
+1103=&New
+1104=&Delete
+1105=Regions
+1106=Main
+1107=Equalizer
+1108=Windowshade
+1109=Equalizer WS
+
+// Save dialog
+1150=Enter the directory in which the skin should be published.
+1151=Save as .&WSZ-Archive
+1152=&Save
+1153=Save skin
+
+// Visualization dialog
+1200=Analyzer
+1201=Oscilloscope
+1202=Other
+1203=&Background
+1204=P&oints
+1205=P&eak
+1206=Visualization
+
+// Create background (art) dialog
+1250=Vertical
+1251=Horizontal
+1252=Diagonal \
+1253=Diagonal /
+1254=minibrowser
+1255=playlist
+1256=Colors
+1257=Color&allocation
+1258=Create background
+1259=Direction
+
+// Skincheat dialog
+1300=&Random
+1301=Enter the text which appears when entering the skin-cheat.
+1302=Skincheat text
+
+// Color progress dialog
+1320=Color-progress
+
+// Search color dialog
+1350=Search color
+1351=Click on the field and drag the mouse to the color at the screen.
+
+// Minibrowser text
+1400=Minibrowser Text
+1401=Background
+1402=Textcolor
+
+// Cursoreditor
+1500=Cursoreditor
+1501=Hotspot

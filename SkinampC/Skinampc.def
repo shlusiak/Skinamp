@@ -1,0 +1,44 @@
+LIBRARY		"SkinampC"
+DESCRIPTION  'SkinampC Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+
+; Heller @1 NONAME;
+; Dunkler @2 NONAME;
+GetInstance @ 1 NONAME;
+SetWinampSkin @2 NONAME;
+LineH @3 NONAME;
+LineV @4 NONAME;
+PaintBmp @5 NONAME;
+PaintBmpColor @6 NONAME;
+PaintMask @7 NONAME;
+SmallTextOut @8 NONAME;
+Rahmen @9 NONAME;
+GetRandomColor @10 NONAME;
+CurLine @11 NONAME;
+CurFloodFill @12 NONAME;
+CurIsPaletteColor @13 NONAME;
+IsWinamp @14 NONAME;
+InfoMoveIt @15 NONAME;
+MultiFlow @16 NONAME;
+CopyFonts @17 NONAME;
+CreateCheatObject @18 NONAME;
+RunInfoCheat @19 NONAME;
+AddOtherCheatObject @21 NONAME;
+CreateSplashScreen @24 NONAME;
+DestroySplashScreen @25 NONAME;
+GetShellLinkTarget @26 NONAME;
+ZipFiles @27 NONAME;
+
+ExtractPrefix @30 NONAME;
+ExtractSuffix @31 NONAME;
+CreateLanguageFile @32 NONAME;
+DestroyLanguageFile @33 NONAME;
+GetLanguageString @34 NONAME;
+GetLanguageFileName @35 NONAME;
+LanguageFileOp @36 NONAME;
+
+
+
+

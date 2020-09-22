@@ -1,0 +1,181 @@
+1.05:
+Fehler beim Laden der Info-Dialog Strings behoben
+Fehler nach Installation behoben (alle Registryeinträge fehlten, ausser instpath)
+Kleine Änderung in Aussehen des Main Bitmaps (Posbar/Chaosbar sichtbar, wenn nicht spielend)
+// (Versuch, Windows 2000 und 98 Kompatiblität zu erhalten)
+Kompatibelität zwischen Windows 98 und 2000 hergestellt
+Vorschau in Regionseditor hinzugefügt (Test Knopf)
+Importieren Knopf in Regionseditor hinzugefügt
+Einige kleine Fehler in Regionseditor beseitigt
+
+1.06:
+Cursoreditor programmiert
+Strings für Cursoreditor hinzugefügt (1500, 1501, 632)
+Verbrauch von GDI-Ressourcen verringert
+Schönheitsfehler in Save-Dialog verbessert (Warnen wenn WSZ existiert)
+Move in Kachelmodus implementiert
+
+1.07:
+Winampverzeichniserkennung verbessert (aktualisiert)
+Transparenz in Reglern (Volume, Balance, Posbar) zugelassen.
+Thread bei Speichern hinzugezogen
+Hilfedatei verbessert (Context-sensitive). 
+Thread zum Laden der Cursors benutzt (laden schneller / besser )
+Skin als Bitmap speichern
+
+1.08:
+Zoomfunktion in Regionseditor
+Speed-ups (canvas durch dc ersetzt, doppelte Funktionen entfernt)
+Kontext-Sensitive Hilfe in Regionseditor hinzugefügt
+DLL mit schnelleren Routinen in C++ geschrieben (->Geschwindigkeit)
+Kleine Graphikfehler behoben (in Skins)
+FloodFill in Cursoreditor implementiert
+Noch mehr Funktionen in DLL ausgelagert.
+Kleine Bugs behoben (Selektieren keines Menüeintrags in CE). 
+neuer Splashscreen
+Infodialog Cheat verbessert (Physikalische Eigenschaften, Anzeige auf lahmen Geräten).
+Drag-and-Drop für LNK-Dateien
+Fehler bein Laden mehrerer Bilder behoben (laden verbessert)
+Polygone in Regionseditor nach bearbeitung bereinigt (leere löschen, gleiche Punkte löschen)
+Auch "Testen" wenn Winamp nicht gefunden wurde.
+Vorscheu im Regionseditor verbessert (korrekte Polygonsbenutzung, Verschieben des Fensters mit Capture)
+Regionseditor: Polygon links/rechtsrum drehung erkannt (immer noch Fehlerhaft bei Überschneidungen innerhalb eines P.)
+
+1.09:
+Mehrere Cursor in Cursoreditor importieren und Drag and Drop
+Splashscreen als Objekt
+Kontonummer in Hilfe aufgeführt
+Fenster erst zur Laufzeit erstellen (spart Systemressourcen, Zeit)
+Cursoreditor Cursor importieren auch .ico Dateien
+Bei als JPEG speichern wird der aktuelle Song nicht in der Playlist gezeigt
+Auch ArtDlg jetz erst zur Laufzeit laden
+Regiotestdlg jetzt als Win32-API implementiert (und erst zur Laufzeit laden).
+Autoconfig von LoadPicture verbessert
+Weniger "Redraws" beim Laden von Bildern
+CheatObject verbessert: Zeiger bei Positions (soviele, wie man gerade will).
+Heller / Dunkler als Makros implementiert (Schneller?!)
+Alle Compilerswitches manuell auf optimal gesetzt
+pltextdlg und mbtextdlg zur Laufzeit erzeugt
+Infodialog nach Cheat aktivieren (sonst im Hintergrund...)
+
+1.10:
+Hilfedatei verändert
+Templates eingebaut: Bitmaps / Masks laden, als Standard verwenden und in SKN-Datei aufnehmen.
+3 neue Strings (für Templates): 150, 151, 152
+Sprache: Croatian (hrvatski)
+Gif-Images laden und Skin als Gif speichern
+Sprache: Thailand
+Infocheat komplett in Dll ausgelagert.
+Volume und Balance komplett unsichtbar, wenn deaktiviert (Bitmap kleiner)
+Equalizer deaktivierbar (Bitmap kleiner)
+Neuer String für Equalizer Deaktivieren: 525
+Strings in Funktionen der Konfigurationen in Konstanten gewandelt->kleinere Exe
+Fehler Behoben: Falschen String geladen bei Einstellung Speichern / Speichern
+Manche Optionen (Main) grau gemacht: Posbar, Volume, Balance für mehrere Einstellungen
+Hilfesystem komplett verändert und verbessert
+Regionseditor Vorschau jetzt "ECHT" (Daten in Pointlist konvertieren)!
+Wenn Options Einträge grau, dann als Maske malen (volume, balance, posbar)
+Skin zippen (->wsz speichern) komplett in SkinampC.dll ausgelagert, brauche zipdll.dll nicht mehr
+Bitmaps für Toolbuttons als Ressource eingebunden, bei Laufzeit laden: wesentlich kleinere Exe
+Konfiguration speichern jetzt auch die grauen Einträge
+
+1.11:
+Als Standard als wsz speichern
+"Als wsz speichern" in Skin Konfiguration aufgenommen, wird gespeichert / geladen
+Voreinstellung "Nur Bild" deaktiviert den Equalizer
+Bitmaps (Erde) in Ressource ausgelagert (kleinere Exe)
+Sprache beim Setzen cachen und weniger laden beim Suchen (->schneller, weniger Festplattenzugriffe)
+Wenn Sprachdatei nicht mehr gefunden wird (langfiles[currentlanguage]='') Dialog anzeigen
+Anderen Zoom Cursor
+Zoomen beim verlassen des Regionseditors zurücksetzen
+Zufall in Artdlg (mit Drag-and-Drop)
+Alle Ressourcen (Cursor, Bitmaps) in Dll ausgelagert.
+Verzeichnisse erzeugen beim Speichern in wsz
+Fehlermeldung ausgeben, wenn speichern fehlgeschlagen
+neue Sprache: Slovak
+neue Sprache: czech
+update Sprache: Hebrev.lng
+update Sprache: french.lng
+Absoluten Pfad zu Bitmaps.bmp und Masks.bmp in *.skn benutzen
+Versuche, den Skin in Winamp zu setzen (nur Windows NT). Wenns klappt, fein, wenn nicht, neuladen
+In Regionseditor 4 neue Strings: 1106-1109
+MouseWheel Unterstützung (Ohne Shift: Vertikal, mit: Horizontal, Alt: Feine Verschiebung)
+Inhalt der Readme.txt jetzt richtig in Konfigurationsdatei abgespeichert (*.skn)
+Splashscreen überarbeitet: Kein Eintrag in der Taskleiste mehr (wegen Icon)
+Cursoreditor erst zur Laufzeit laden (schnellerer Start, weniger RAM)
+Größe des Regionseditors so klein gemacht, wie möglich (Original Skingröße)
+Palette bearbeiten (TShape->TShapeDblClick). Noch Verbesserungsbedürftig. 
+Wenn Fehler beim Laden der Bitmaps.bmp oder Masks.bmp (Konfiguration laden), dann Standard verwenden
+Hilfedatei verbessern (insbesondere Context Hilfe). 
+Direkthilfe in Main Window hinzugefügt
+Lupe laden, wenn Regionseditor angezeigt wird (war nicht vorhanden)
+Scale Eigenschaft bei Cursoreditor, Regionseditor und PagesDlg auf FALSE, damit die Größe noch stimmt, wenn eine grössere Schriftart ausgewählt wurde
+Neuer Menüpunkt: Bitmaps.bmp und Masks.bmp bearbeiten
+2 neue Strings (153,154) für Masks (Bitmaps) bearbeiten
+Raster in Regionseditor eingebaut (neuer Button, neue Graphik für Button).
+Regionseditor kann jetzt direkt runde Ecken einfügen (neuer Knopf, neue Graphiken für Knopf). Mal links, mal rechts rum...
+Skalierung nicht automatisch zurücksetzen, wenn ein Kunst-Bild erzeugt wird. (Fehler beim Laden von skn mit Kunstbildern).
+Direkthilfe klappt jetzt (fast) überall
+Bewegung der Regionsvorschau verbessert
+
+1.12:
+Controls deaktivieren, wenn Skin speichern
+Benutzt jetzt auch die bunten Controls von Windows XP
+Eigener Thread zur Speicherung herangezogen (für alles, ausser Readme) -> Programm reagiert während Speichern
+Stört sich jetzt nicht mehr an NTFS-Dateisystem (wegen falschen Daten)
+Neuer Installer benutzt die richtigen Daten der Dateien
+FAQ in Hilfe aufgenommen
+Fehler in Playlist: Titelzeile um 2 Pixel verrutscht (nehme jetzt Quelle 2 Pixel weiter rechts)
+Fehler in Minibrowser behoben: Genau der gleiche.
+Das Schriftartenpopupmenü wird jetzt umgebrochen -> Man sieht mehr Schriftarten gleichzeitig
+Uninstaller jetzt nach Installieren doch vorhanden (vorher nicht)
+Knöpfe für "Kunst" und "Schriftart" vertauscht (geordnet)
+Sprachobjekt in Dll ausgelagert -> Sehr viel schneller
+Mit Ctrl+R zuletztgeladenes Quellbild neuladen
+Installer: Verknüpfungen zeigen jetzt auf das Installationsverzeichnis.
+Windows XP Steuerelemente wieder rausgenommen, weil sie sich mit der Toolbar im Cursoreditor gebissen hatten.
+Nach generieren von Hintergrundbildern, Möglichkeit zum Speichern des Bildes
+Manchmal den Standarddialog zum Öffnen / Speichern verwenden
+
+
+1.13:
+Spanish.lng: Shareware -> Freeware
+Neue Sprache: Katalonisch
+Konstanten Pfad in Hilfedatei angegeben (Keine Probleme nach Laden eines Bildes).
+Kleine Pixelfehler behoben (Repeat und Öffnen verschoben).
+Neue Sprache: Bosanski (Bosnisch?)
+Hintergrund und Punkte werden in Visualization angezeigt (Preview)
+Neues ColorField in Pagesdlg: Hintergrund für Hintergrundfarbe im Visualizationrect
+Kleine Kosmetik: Fenster größer gemacht und Controls angepasst (PagesDlg)
+
+1.14:
+Neue Sprache: Macedonian.lng
+Playlist Hintergrundfarbe wirkt sich auf gesamte Playlist aus (mit Seitenstreifen)
+Hintergrundfarbe im Main-Bereich beeinflusst Song-Titel-Hintergrund und Playlist Some Name im WS-Mode und Zeiten der Playlist
+Website-Addresse für MB eingebbar
+Neuer String: 543=Site
+Neue Einstellungen in Konfigurationsdatei speicherbar (Hintergrundfarbe und MB-Site)
+Zeiten der Playlist geändert (PI)
+Neue Sprache: Polish.lng
+Neue Sprache: Latvian.lng
+Neue Sprache: Simple Chinese.lng
+Neue Sprache: Galician.lng
+
+
+1.15:
+Sprachupate: Galician.lng
+Sprachupdate: hebrew.lng
+Sprachteil von Skinampc.dll verbessert (eof, usw.)
+LangTest auf Skinampc.dll umgebaut (jetzt mit bad comments)
+Sprachupdate: Galician.lng
+Text geändert, bei nicht gefundener Standard Masks.bmp Datei.
+Kein Absturz mehr bei korrupten Sprachdateien
+Bei nicht gefundener Masks.bmp und Bitmaps.bmp Datei Standard neu setzen
+Bug behoben: Temp Pfad jetzt bis zu 255 Zeichen lang (bei Windows NT).
+Alle Pfade beim Speichern auf PCHAR umgebaut (von String).
+
+
+
+
+
+

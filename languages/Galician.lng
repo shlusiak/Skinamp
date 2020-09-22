@@ -1,0 +1,227 @@
+// Idioma galego para Skinamp  Iago Blanco V·zquez  
+// e-mail:il_cavallino_rampante@hotmail.com
+// Reservados tÛdolos dereitos. Este arquivo pode verse suxeito a cambios 
+// sen previo aviso.
+
+//                          ____                     _   ________ ___
+//                         / __/__ ___________ _____(_) / __/ __// _ \
+//                        / _// -_) __/ __/ _ `/ __/ / / _//__ \/ // /
+//                       /_/  \__/_/ /_/  \_,_/_/ /_/ /_/ /____/\___/
+
+
+//                                            /^\
+//                                    _      //_\\     _
+//                                   _||====/     \====||_
+//                                 _|è|| __/ _____ \__ ||è|_
+//                                |èèè|=èè=|\_____/|=èè=|èèè|
+//                                |è|-----\ ||   || /-----|è|
+// © 2002 Iago Blanco Vazquez     |è|______\||___||/______|è|   TÛdolos 
+// Dereitos Reservados
+
+0=&Galego
+10=°Imaxe non v·lida!
+11=http://members.tripod.de/DrAlgebra/english
+12=VersiÛn en galego
+13=°Winamp non atopado! Asegurate de que est· instalado correctamente.
+14=Imposible borrar o directorio temporal.
+15=Winamp non se esta executando øInicioo?
+16=øBorrar os polÌgonos actuais?
+17=øBorrar tÛdolos puntos deste polÌgono?
+18=Arriba
+19=Abaixo
+20=Vol. alto
+21=Vol. baixo
+22=Centro
+23=Borde
+24=Esquerda
+25=Dereita
+26=Sup-esq
+27=Sup-der
+28=Inf-esq
+29=Inf-der
+30=SkinAmp
+31=Winamp vai recargar o teu skin agora. °Por favor, asegurate de ter grabado o skin e que sexa o actual en Winamp!
+32=O skin xa existe. øQueres sobreescribir tÛdolos arquivos?
+33=Non se atopa a imaxe. Puido borrarse.
+
+100=&Programa
+101=Abrir &imaxe...
+102=Xerar &fondo...
+105=&Pegar portapapeis
+103=&Grabar Skin...
+104=SaÌr
+106=Abrir outra &vent·
+107=Salvar como &Jpeg...
+110=&Skin
+111=&Plantillas
+112=&3D
+113=&Bitmaps
+114=&SÛ imaxe
+115=&Principal
+116=V&olume...
+117=&VisualizaciÛn...
+118=&Balance...
+119=Skin&cheat...
+120=&Ecualizador
+121=&Gr·fico...
+122=&Barras...
+123=&Lista
+124=&Fonte...
+125=&Grabar configuraciÛn...
+126=&Cargar configuraciÛn...
+127=Usar predeterminado
+128=&MiniExplorador
+129=&Texto
+130=&Idioma
+140=&Axuda
+141=&Acerca de...
+142=&Rexistro...
+150=Plantillas
+151=Cargar Bitmaps.bmp...
+152=Cargar M·scaras.bmp...
+153=Editar Bitmaps.bmp
+154=Editar M·scaras.bmp
+500=&TÌtulo:
+501=Barra de tÌtulo
+502=BotÛns
+503=&BotÛns
+504=Ning˙n
+505=Bitmaps
+506=3D
+507=Iniciais
+508=Mono - estÈreo
+509=Balance
+510=Volume
+511=Barra de tempo
+512=Kbps/Mhz
+513=Visores
+514=Titulo do tema
+515=Estado de Play
+516=Icono Winamp
+517=Tempo:
+518=Tema:
+520=DescripciÛn
+521=Bordes
+522=Barras
+523=Gr·fico
+524=PreamplificaciÛn
+525=&Activado
+530=Controis
+531=Barra deslizante
+532=BotÛn deslizante
+533=BotÛn TamaÒo
+534=Imaxe debaixo
+535=Transparente
+536=Dividir
+537=Barras &negras
+540=Esquina tamaÒo
+541=LiÒa de direcciÛn
+542=Imaxe inferior &MB
+543=Site:
+550=&Grabar...
+551=&Probar
+552=SaÌr
+553=Imaxe
+554=&Cargar imaxe...
+555=&Arte...
+556=&RexiÛn...
+557=Modo de imaxe
+558=Parte
+559=Adaptado
+560=Mosaico
+561=&Borde
+562=Non
+563=Separando
+564=Xeral
+565=&Borde cara...
+566=Abaixo
+567=Arriba
+568=&Mostrar
+569=Principal
+570=Navegador
+571=AVS
+572=&TamaÒo
+573=&Fonte...
+580=Principal
+581=V&olume...
+582=&VisualizaciÛn...
+583=&Balance...
+584=Skin&cheat...
+590=Ecualizador
+591=&Gr·fico...
+592=&Barras...
+600=Lista
+601=&Texto...
+610=Mininavegador
+620=AVS
+630=Readme.txt
+631=&Algo de skinamp
+632=&Cursores...
+
+900=&Degradado
+901=&Pechar
+902=&Ok
+903=&Cancelar
+904=N˙mero de cores
+905=&Importar...
+906=&Voltear
+907=&Mostrar
+1000=Acerca de Skinamp...
+1001=Escrito por
+1002=Este programa È freeware e podes copiarllo a quen queiras. Traducido por Iago Blanco V·zquez
+1003=E-mail:
+1004=&°Feliciteme!
+1005=Despois
+1006=Nunca
+1050=Normal
+1051=Fondo Actual
+1052=Fondo Normal
+1053=Fondo seleccionado
+1054=Texto na Lista de ReproducciÛn
+1100=&Todos
+1101=PolÌ&gono:
+1102=&Puntos:
+1103=&Novo
+1104=&Borrar
+1105=RexiÛns
+1106=Principal
+1107=Ecualizador
+1108=Windowshade
+1109=Ecualizador WS
+1150=Directorio no que se publicar· o skin.
+1151=Graba con extensiÛn .&wsz
+1152=&Graba
+1153=Graba skin
+1200=Analizador
+1201=Osciloscopio
+1202=Outro
+1203=&Fondo
+1204=P&untos
+1205=&Cresta
+1206=VisualizaciÛn
+1250=Vertical
+1251=Horizontal
+1252=Diagonal \
+1253=Diagonal /
+1254=Mininavegador
+1255=Lista de temas
+1256=Cores
+1257=Cor&LocalizaciÛn
+1258=Crear fondo
+1259=DirecciÛn
+1300=&Aleatorio
+1301=Coloca o texto que aparecer· cando se pulse use skin-cheat.
+1302=Texto cheat
+1320=Cores
+1350=Captura cores
+1351=Click no rectangulo e arrastra ata a cor que desexes na pantalla.
+1400=Texto Mininavegador
+1401=Fondo
+1402=CorTexto
+1450=Rexistro
+1451=øTes o cÛdigo? Excelente, escrÌbeo:
+1452=øNon o tes? Fai clic aqui para ir · miÒa p·xina...
+1453=CÛdigo equivocado...
+1500=Editor de Cursores
+1501=Hotspot
+

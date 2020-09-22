@@ -1,0 +1,406 @@
+// Slovenskı jazyk do Skinampu
+
+// Translated by Shaggy, 2001
+
+
+
+0=Slovenskı
+
+10=Nevhodnı obrázok!
+
+11=http://members.tripod.de/DrAlgebra/english
+
+
+
+12=Slovenská verzia
+
+13=Winamp nebol nájdenı! Skontrolujte èi bol správne nainštalovanı.
+
+14=Nemôem vymaza odkladací adresár.
+
+15=Winamp nie je spustenı! Chcete ho spusti teraz?
+
+16=Vymaza aktuálny polygón?
+
+17=Všetky body aktuálneho polygónu vymaza?
+
+18=Vrch
+
+19=Spodok
+
+20=Tichšie
+
+21=Hlasnejšie
+
+22=Stred
+
+23=Okraj
+
+24=V¾avo
+
+25=Vpravo
+
+26=h-¾
+
+27=h-p
+
+28=d-¾
+
+29=d-p
+
+30=Skinamp
+
+
+
+31=Winamp naèíta znovu aktuálny skin. Uistite sa, e ste skin uloili a e je nastavenı vo Winampe!
+
+32=Skin u existuje. eláte si prepísa všetky existujúce súbory?
+
+33=Nemôem nájs obrázok. Pravdepodobne bol vymazanı.
+
+
+
+100=&Program
+
+101=&Naèítaj obrázok...
+
+102=&Generuj pozadie...
+
+105=&Prilepi zo schránky
+
+103=&Uloi skin...
+
+104=&Koniec
+
+106=&Otvor nové okno
+
+107=Ulo ako &Jpeg...
+
+110=&Skin
+
+111=Pred&nastavené
+
+112=&3D
+
+113=&Bitmapy
+
+114=&Iba obrázok
+
+115=&Hlavné okno
+
+116=&Hlasitos...
+
+117=&Vizualizácia...
+
+118=&Balans...
+
+119=&Skincheat...
+
+120=&Ekvalizér
+
+121=&Diagram...
+
+122=&Regulátor...
+
+123=&Playlist
+
+125=&Ulo konfiguráciu...
+
+126=N&aèítaj konfiguráciu...
+
+127=&Poui ako štandard
+
+128=&Minibrowser
+
+130=&Jazyk
+
+140=&Nápoveda
+
+141=&O programe...
+
+150=&Templates
+
+151=Naèítaj &Bitmaps.bmp...
+
+152=Naèítaj &Masks.bmp...
+
+
+
+153=Edit Bitmaps.bmp
+154=Edit Masks.bmp
+500=&Názov:
+
+501=&Lišta
+
+502=&Tlaèítka
+
+503=Tl&aèítka
+
+504=iadne
+
+505=Bitmapy
+
+506=3D
+
+507=Chaosbar
+
+508=Mono - stereo
+
+509=Balans
+
+510=Hlasitos
+
+511=Pozièná lišta
+
+512=Datarate
+
+513=Vizualizácia
+
+514=Názov piesne
+
+515=Status prehrávania
+
+516=Winamp ikona
+
+517=èas:
+
+518=pieseò:
+
+520=Popis
+
+521=Okraj
+
+522=Lišta
+
+523=Diagram
+
+524=Preamp
+
+525=&Zapnutı
+
+530=Tlaèítka prehrávania
+
+531=Posúvna lišta
+
+532=Posúvne tlaèítka
+
+533=Zmena rozmerov
+
+534=Obrázok pod &Pl
+
+535=Priesvitnı
+
+536=Rozdeli
+
+537=È&ierne pásy
+
+540=Zmena rozmerov
+
+541=Orámova adresu
+
+542=Obrázok pod &MB
+
+543=Site:
+550=&Uloi...
+
+551=T&est
+
+552=&Koniec
+
+553=Obrázok
+
+554=&Otvor obrázok...
+
+555=U&menie...
+
+556=&Regióny...
+
+557=T&yp obrázku
+
+558=Delenı
+
+559=Roztiahnutı
+
+560=Dládice
+
+561=O&hranièenie
+
+562=iadne
+
+563=Oddelené
+
+564=Celkové
+
+565=Ty&p èiary
+
+566=Hore
+
+567=Dole
+
+568=Ukáz&a
+
+569=Hlavnı
+
+570=Browser
+
+571=AVS
+
+572=O&brázok
+
+573=Pí&smo...
+
+580=Hlavnı
+
+581=&Hlasitos...
+
+582=&Vizualizácia...
+
+583=&Balans...
+
+584=&Skincheat...
+
+590=Ekvalizér
+
+591=&Diagram...
+
+592=&Regulátor...
+
+600=Playlist
+
+601=Te&xt...
+
+610=Minibrowser
+
+620=AVS
+
+630=readme.txt
+
+631=&Reklama
+
+632=Kur&zor...
+
+
+
+900=&Postup
+
+901=&Zavrie
+
+902=&Ok
+
+903=&Zruši
+
+904=Poèet farieb
+
+905=&Importuj
+
+906=O&toè
+
+907=&Uká
+
+
+
+1000=O programe Skinamp...
+
+1001=Napísal 
+
+1002=Tento program je freeware a môe by vo¾ne šírenı.
+
+1003=email:
+
+1004=&Uctievajte ma!
+
+1005=Neskôr
+
+1006=Nikdy
+
+1050=Normálny
+
+1051=Aktuálne písmo
+
+1052=Normálne pozadie
+
+1053=Oznaèené pozadie
+
+1054=Text Playlistu
+
+1100=&Všetky polygóny
+
+1101=Poly&gón:
+
+1102=&Body:
+
+1103=&Novı
+
+1104=V&yma
+
+1105=Regióny
+
+1106=Main
+1107=Equalizer
+1108=Windowshade
+1109=Equalizer WS
+1150=Uveïte adresár do ktorého sa má skin uloi.
+
+1151=Ulo ako .&WSZ archív
+
+1152=&Ulo
+
+1153=Ulo skin
+
+1200=Analyzér
+
+1201=Oscilloskop
+
+1202=Ostatné
+
+1203=P&ozadie
+
+1204=&Body
+
+1205=&Vrchol
+
+1206=Vizualizácia
+
+1250=Vertikálny
+
+1251=Horizontálny
+
+1252=Diagonálny \
+
+1253=Diagonálny /
+
+1254=minibrowser
+
+1255=playlist
+
+1256=Farby
+
+1257=&Alokuj farby
+
+1258=Vytvor pozadie
+
+1259=Smer
+
+1300=&Náhodnı
+
+1301=Napíš text, ktorı sa objaví po zadaní skin-cheatu.
+
+1302=Skincheat text
+
+
+
+1320=Postup farieb
+
+1350=H¾adaj farbu
+
+1351=Klikni myšou na pole a potom ju presuò na zvolenú farbu na obrazovke.
+
+1400=Text minibrowseru
+
+1401=Pozadie
+
+1402=Farba textu
+
+1500=Editor kurzorov
+
+1501=Hotspot

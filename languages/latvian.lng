@@ -1,0 +1,238 @@
+// Latvian language for Skinamp
+// Edited by Adriano, 2002
+// Mailto: adriano@krovatka.net; http://saule.tk
+
+// You find help for editing language files in the help file of Skinamp
+
+// Valid websites (string 11) are:
+// "http://members.tripod.de/DrAlgebra/enlish"  for the english version and
+// "http://members.tripod.de/DrAlgebra"  for the german version.
+
+
+// General strings
+0=&Latvieðu
+10=Nederîgs attçls!!!
+
+11=http://members.tripod.de/DrAlgebra/english
+12=Latviskâ versija
+13=Winamp nav atrasts! Pârbaudi, vai tas ir uzinstalçts pareizi.
+14=Nevar izdzçst pagaidu direktoriju.
+15=Winamp nedarbojas! Vai atvçrt to?
+16=Vai izdzçst paðreizçjos daudzstûrus?
+17=Vai izdzçst visus paðreizçjâ daudzstûra punktus?
+18=augða
+19=apakða
+20=augðâ
+21=apakðâ
+22=centrâ
+23=robeþa
+24=pa kreisi
+25=pa labi
+26=au-kr
+27=au-l
+28=ap-kr
+29=ap-l
+30=SkinAmp
+31=Winamp pârlâdçs paðreizçjo âdu. Lûdzu, pârbaudi, vai âda ir saglabâta un, vai Winamp to uzstâda!
+32=Âda jau eksistç. Vai pârrakstît par jaunu? 
+33=Nevar atrast attçlu! Iespçjams, tas ir izdzçsts.
+
+// Menu strings
+100=&Izvçlne
+101=Ielâdçt &attçlu...
+102=Ìenerçt &fonu...
+105=&Iekopçt attçlu
+103=&Saglabât âdu...
+104=&Iziet
+106=Atvçrt jaunu &logu
+107=Saglabât kâ &Jpeg...
+110=&Âda
+111=Esoðie &veidi
+112=&3D
+113=&Bitmaps
+114=&Tikai attçls
+115=&Galvenais logs
+116=S&kaïums...
+117=&Vizualizâcija...
+118=&Lîdzsvars...
+119=Skin&cheat...
+120=&Ekvalaizers
+121=&Diagramma...
+122=&Regulators...
+123=&Saraksta redaktors
+125=&Saglabât konfigurâciju...
+126=&Ielâdçt konfigurâciju...
+127=Lietot kâ noklusçjumu
+128=&Minipârlûks
+130=&Valoda
+140=&Palîgs
+141=&Par...
+150=&Veidnes
+151=&Ielâdçt Bitmaps.bmp...
+152=&Ielâdçt Masks.bmp...
+153=Rediìçt Bitmaps.bmp
+154=Rediìçt Masks.bmp
+
+// Strings of the main window
+500=&Virsraksts:
+501=&Virsraksta josla
+502=Pogas
+503=&Pogas
+504=Nekas
+505=Bitmaps
+506=3D
+507=Chaosbar
+508=Mono - stereo
+509=Lîdzsvars
+510=Skaïums
+511=Posbar
+512=Datu pârsûtîðanas âtrums
+513=Vis-rect
+514=Dziesmas-nosaukums
+515=Skançjuma stâvoklis
+516=Winamp ikona
+517=laiks:
+518=dziesma:
+520=Apraksts
+521=Robeþa
+522=Josla
+523=Diagramma
+524=Preamp
+525=&On
+530=Atskaòoðanas pogas
+531=Ritjosla
+532=Ritinâðanas poga
+533=Izmçra poga
+534=Attçls zem &Pl
+535=Caurspîdîgs
+536=Ðíelts
+537=Melnâs &svîtras
+540=Izmçra poga
+541=Adressline
+542=Attçls zem &MB
+543=Site:
+550=&Saglabât...
+551=&Pârbaudît
+552=I&ziet
+553=Attçls
+554=&Ielâdçt attçlu...
+555=&Fons...
+556=&Reìioni...
+557=Attçla &reþîms
+558=Pa daïai
+559=Pa visu logu
+560=Plâtòveida
+561=&Robeþlînijas
+562=Nav
+563=Atdaloðas
+564=Galvenâs
+565=Robeþlîniju &veids
+566=Uz augðu
+567=Uz leju
+568=&Displejs
+569=Galvenais logs
+570=Pârlûks
+571=AVS
+572=Attçla &izmçrs
+573=&Fonti...
+580=Galvenais logs
+581=&Skaïums...
+582=&Vizualizâcija...
+583=&Lîdzsvars...
+584=Skin&cheat...
+590=Ekvalaizers
+591=&Diagramma...
+592=&Regulators...
+600=Saraksta redaktors
+601=&Teksts...
+610=Minipârlûks
+620=AVS
+630=readme.txt
+631=&Reklâma
+632=&Kursori...
+
+// Some general buttons
+900=&Progress
+901=&Aizvçrt
+902=&Apstiprinât
+903=&Atcelt
+904=Krâsu skaits
+905=&Importçt...
+906=&Apgriezt
+907=&Parâdît
+
+// Info dialog
+1000=Par Skinamp...
+1001=Izveidojis 
+1002=Ðî ir freeware programma, ko drîkst brîvi kopçt.
+1003=email:
+1004=&Slavç mani!
+1005=Vçlâk
+1006=Nekad
+
+// Playlist font
+1050=Standarta
+1051=Paðreizçjais
+1052=Standarta fons
+1053=Iezîmçtais fons
+1054=Saraksta fonts
+
+// Regionseditor
+1100=&Visi daudzstûri
+1101=D&audzstûris:
+1102=&Punkti:
+1103=&Jauns
+1104=&Izdzçst
+1105=Reìioni
+1106=Galvenais logs
+1107=Ekvalaizers
+1108=Galv.l. (samaz.)
+1109=Ekval. (samaz.)
+
+// Save dialog
+1150=Norâdi direktoriju, kur âdu saglabât!
+1151=Saglabât kâ .&WSZ-Arhîvu
+1152=&Saglabât
+1153=Saglabât âdu
+
+// Visualization dialog
+1200=Analizators
+1201=Oscillisfçra
+1202=Cits
+1203=&Fons
+1204=&Punkti
+1205=&Virsotnes
+1206=Vizualizâcija
+
+// Create background (art) dialog
+1250=Vertikâls
+1251=Horizontâls
+1252=Diagonâls \
+1253=Diagonâls /
+1254=Minipârlûks
+1255=Saraksts
+1256=Krâsas
+1257=Krâsu &pieðíirðana
+1258=Izveidot fonu
+1259=Virziens
+
+// Skincheat dialog
+1300=&Nejauðs
+1301=Ievadi tekstu, kas parâdâs, ievadot skin-cheat.
+1302=Skincheat teksts
+
+// Color progress dialog
+1320=Krâsu-attîstîba
+
+// Search color dialog
+1350=Meklçt krâsu
+1351=Noklikðíini uz lauka un velc ar peli. 
+
+// Minibrowser text
+1400=Minipârlûka teksts
+1401=Fons
+1402=Teksta krâsa
+
+// Cursoreditor
+1500=Kursoru redaktors
+1501=Karstvieta

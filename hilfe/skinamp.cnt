@@ -1,0 +1,25 @@
+:Base skinamp.hlp
+1 Help Index=main_index
+1 Read first
+2 Read first, please=freeware
+2 Copyright=copyright
+2 First steps=intro
+2 F.A.Q.=faq
+1 Features
+2 Testing your skin=test
+2 Cursor editor=cursors
+2 Regionseditor=regions
+2 What is the Skincheat=skincheat
+2 Save a skin to a JPEG or Bitmap image=save_jpeg
+2 Hotkeys of Skinamp=hotkeys
+2 Tips and tricks=tips
+2 The use of a mouse wheel=mousewheel
+2 Languages
+3 General information about languages=lang_index
+3 Editing language files=lang_edit
+3 Language file strings=lang_list
+1 Additional information
+2 The Bitmaps.bmp and Masks.bmp files=bitmapsmasks
+2 Pictures and Measurements=pictures
+2 The problems with the playlist and the minibrowser=playlist
+2 What is the "Winamp Skin Zip"?=wsz

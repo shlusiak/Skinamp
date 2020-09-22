@@ -1,0 +1,227 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral (Standard) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEUD)
+#ifdef _WIN32
+LANGUAGE LANG_NEUTRAL, SUBLANG_DEFAULT
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,2
+ PRODUCTVERSION 1,0,0,2
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "Used in Skinamp (Dr.Algebra@gmx.de). Please check ""http://members.tripod.de/DrAlgebra/english""\0"
+            VALUE "CompanyName", " \0"
+            VALUE "FileDescription", "Skinampc dynamic link library\0"
+            VALUE "FileVersion", "1, 0, 0, 2\0"
+            VALUE "InternalName", "SkinampC\0"
+            VALUE "LegalCopyright", "Copyright © 2002 Sascha Hlusiak.\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Skinampc.dll\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Skinampc\0"
+            VALUE "ProductVersion", "1, 0, 0, 2\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+100                     BITMAP  DISCARDABLE     "splashscreen.bmp"
+101                     BITMAP  DISCARDABLE     "bmp101.bmp"
+
+102                     BITMAP  DISCARDABLE     "bmp102.bmp"
+
+103                     BITMAP  DISCARDABLE     "bmp103.bmp"
+
+104                     BITMAP  DISCARDABLE     "bmp104.bmp"
+
+105                     BITMAP  DISCARDABLE     "bmp105.bmp"
+
+106                     BITMAP  DISCARDABLE     "bmp106.bmp"
+
+107                     BITMAP  DISCARDABLE     "bmp107.bmp"
+
+108                     BITMAP  DISCARDABLE     "bmp108.bmp"
+
+109                     BITMAP  DISCARDABLE     "bmp109.bmp"
+
+120                     BITMAP  DISCARDABLE     "bmp120.bmp"
+
+130                     BITMAP  DISCARDABLE     "bmp130.bmp"
+
+125                     BITMAP  DISCARDABLE     "bmp125.bmp"
+
+126                     BITMAP  DISCARDABLE     "bmp126.bmp"
+
+127                     BITMAP  DISCARDABLE     "bmp127.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+110                     ICON    DISCARDABLE     "ico110.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+101                     CURSOR  DISCARDABLE     "cur101.cur"
+
+102                     CURSOR  DISCARDABLE     "cur102.cur"
+
+103                     CURSOR  DISCARDABLE     "cur103.cur"
+
+104                     CURSOR  DISCARDABLE     "cur104.cur"
+
+105                     CURSOR  DISCARDABLE     "cur105.cur"
+
+106                     CURSOR  DISCARDABLE     "cur106.cur"
+
+107                     CURSOR  DISCARDABLE     "cur107.cur"
+
+201                     CURSOR  DISCARDABLE     "cur201.cur"
+
+202                     CURSOR  FIXED IMPURE    "cur202.cur"
+
+203                     CURSOR  DISCARDABLE     "cur203.cur"
+
+204                     CURSOR  FIXED IMPURE    "cur204.cur"
+
+205                     CURSOR  DISCARDABLE     "cur205.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    1                       "Failed to create splash screen!"
+    2                       "Error: File %s not found!"
+    3                       "Error!"
+    4                       "Masks.bmp"
+    5                       "Bitmaps.bmp"
+    6                       "ctemp.cur"
+    7                       "Sascha Hlusiak, 2002."
+    8                       "Dr.Algebra@gmx.de"
+    9                       "mailto:Dr.Algebra@gmx.de?subject=Skinamp"
+    10                      "www.winamp.com"
+    11                      "[Error loading string"
+    12                      "[Error loading language file]"
+    13                      "winamp.exe"
+    14                      "/NOSPLASH"
+    15                      "Error occured during saving skin! Process canceled!"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    16                      "This file was created by Skinamp"
+    17                      "http://members.tripod.de/DrAlgebra/english"
+    18                      "Winamp not found. Please check, if it is installed correctly!"
+END
+
+#endif    // Neutral (Standard) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Deutsch (Deutschland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_DEU)
+#ifdef _WIN32
+LANGUAGE LANG_GERMAN, SUBLANG_GERMAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Deutsch (Deutschland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
